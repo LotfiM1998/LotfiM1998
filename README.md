@@ -18,13 +18,13 @@
 <h1 align="center">⚡️ Stats ⚡️</h1>
 <div align="center">
     <p>
-        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
     </p>
     <p>
-        <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
+        <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
     </p>
     <p>
-        <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=LotfiM1998&&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
+        <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=LotfiM1998&&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
     </p>
 </div>
 <!--
@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 
 ### 🐍 Contribution Snake:
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LotfiM1998/LotfiM1998/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LotfiM1998/LotfiM1998/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LotfiM1998/LotfiM1998/output/github-contribution-grid-snake.svg">
+  <img  style="display: block; margin: 0 auto"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LotfiM1998/LotfiM1998/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 
