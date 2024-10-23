@@ -33,7 +33,7 @@
 <h1 align="center">⚡️Stats⚡️ </h1>
 <div align="center">
     <p>
-        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiM1998&layout=donut-vertical&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
     </p>
     <p>
         <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
