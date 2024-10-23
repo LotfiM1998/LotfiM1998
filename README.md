@@ -22,7 +22,7 @@
 
 <h2>Others</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,vuejs,dotnet,spring&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vuejs,dotnet,spring,sql&theme=dark" height="64" />
 </div>
 
 <h2>DevOps</h2>
