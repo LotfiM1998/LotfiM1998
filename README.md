@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 
 ### 🐍 Contribution Snake:
 <picture align="center">
@@ -50,5 +50,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LotfiM1998/LotfiM1998/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
