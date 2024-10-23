@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+<h1 align="center">⚡️ Stats ⚡️</h1>
+<div align="center">
+    <p>
+        <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
+    </p>
+    <p>
+        <img style="display: block; margin: 0 auto" src="https://github-readme-stats.vercel.app/api?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
+    </p>
+    <p>
+        <img style="display: block; margin: 0 auto" src="https://github-readme-streak-stats.herokuapp.com/?user=LotfiM1998&&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="iwezix" />
+    </p>
+</div>
 <!--
 **LotfiM1998/LotfiM1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
