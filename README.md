@@ -15,7 +15,22 @@
 </pre>
 
 
-<h1 align="center">⚡️ Stats ⚡️</h1>
+<h2> ⚡️Languages⚡️ </h2>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=bash,html,css,js,c,c#,java&theme=dark" height="64" />
+</div>
+
+<h2>Others</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vuejs,dotnet,spring&theme=dark" height="64" />
+</div>
+
+<h2>DevOps</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions&theme=dark" height="64" />
+</div>
+
+<h1 align="center">⚡️Stats⚡️ </h1>
 <div align="center">
     <p>
         <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LotfiM1998&layout=compact&theme=tokyonight&bg_color=0A0A0A" alt="LotfiM1998" />
