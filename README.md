@@ -15,12 +15,12 @@
 
 <h2> ⚡️Languages⚡️ </h2>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=bash,html,css,js,c,cs,java&theme=dark" height="64" />
+ <img src="https://skillicons.dev/icons?i=bash,html,css,js,c,cs,java,sqlite&theme=dark" height="64" />
 </div>
 
 <h2>Others</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,vuejs,dotnet,spring,sql&theme=dark" height="64" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,vuejs,dotnet,spring,postgresql&theme=dark" height="64" />
 </div>
 
 <h2>DevOps</h2>
