@@ -42,10 +42,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 🐍 Contribution Snake:
-<picture align="center">
+<!--### 🐍 Contribution Snake:-->
+<div align="center">
   <img  style="display: block; margin: 0 auto"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LotfiM1998/LotfiM1998/output/github-contribution-grid-snake-dark.svg">
-</picture>
+</div>
 
 
