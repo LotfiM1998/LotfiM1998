@@ -17,7 +17,7 @@
 
 <h2> ⚡️Languages⚡️ </h2>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=bash,html,css,js,c,c#,java&theme=dark" height="64" />
+ <img src="https://skillicons.dev/icons?i=bash,html,css,js,c,cs,java&theme=dark" height="64" />
 </div>
 
 <h2>Others</h2>
